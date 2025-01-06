@@ -12,7 +12,7 @@ First, clone the repo:
 ```
 git clone https://github.com/azlan18/Level-Supermind-Team-DedSec.git
 cd Level-Supermind-Team-DedSec/Landing-Page
-
+npm install
 ```
 
 ```bash
